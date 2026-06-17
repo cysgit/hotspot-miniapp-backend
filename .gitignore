@@ -12,3 +12,5 @@ venv2/
 dist/
 build/
 .eggs/
+*.pyc
+__pycache__/
