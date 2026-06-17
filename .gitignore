@@ -14,3 +14,4 @@ build/
 .eggs/
 *.pyc
 __pycache__/
+.vercel
