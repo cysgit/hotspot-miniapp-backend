@@ -1,0 +1,12 @@
+{
+  "name": "hotspot-api",
+  "version": "1.0.1",
+  "description": "全网热点聚合 API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
